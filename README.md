@@ -8,4 +8,9 @@
  <h4> 
 Programming Language -->> Java  and its Concept JDBC <p>
 Software Used --> Eclipse IDE, Mysql </h4> 
-  ![Screenshot 2022-06-03 114028](https://user-images.githubusercontent.com/94375133/171797148-ae4f9e3e-de4a-44b7-a702-8c6902c836da.png)
+   
+   <h2> Add Student <h2>
+<img src="https://github.com/sho-aib1/StudentManagmentApplication/blob/master/Screenshot%202022-06-03%20114028.png" />
+<h2> Show Student Details<h2>
+ 
+<img src="https://github.com/sho-aib1/StudentManagmentApplication/blob/master/Screenshot%202022-06-03%20114319.png" />
