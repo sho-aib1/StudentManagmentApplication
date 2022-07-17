@@ -1,8 +1,8 @@
-# StudentManagmentApplication
+# Student Management  Application
 
-<h3> It is a console based Student Managment Application made my Using Java and Mysql<p>
- it gives you 4 option to perforem Action - Add , Delete , Display , Exit. <p>
- By this this Application We can Store Student's Details like id,name,phone No and city in Databses <P> --> Delete Student from Database by using Student's Id
+<h3> It is a console based Student Management  Application made my Using Java and Mysql<p>
+ It gives you 4 option to perform  - Add , Delete , Display , Exit. <p>
+ By this Application We can Store Student's Details like id,name,phone No and city in Database <P> --> Delete Student from Database by using Student's Id
   <P> --> Display Details of all Students as well as Single Student.<h3>
     
  <h3> 
